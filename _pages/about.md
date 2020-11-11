@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "an"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Currently, I am a Phd Candidate in the Department of Computer Science and Engineering at The Ohio State University. I was very fortunate to be advised by Dr. Raef Bassily. My research includes privacy-preserving data analysis, with a specific focus on differential privacy and its applications to machine learning, optimization, and adaptive data analysis.
 
+Before joining Ohio State, I graduated with a M.Tech from the Department of Computer Science & Engineering at Indian Institute of Technology, Guwahati (India) in 2013. I completed my Bachelor’s in Computer Science & Engineering from Sardar Patel University, Gujarat (India) in 2009.
