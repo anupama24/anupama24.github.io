@@ -1,12 +1,3 @@
----
-permalink: /
-title: "an"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 Currently, I am a Phd Candidate in the Department of Computer Science and Engineering at The Ohio State University. I was very fortunate to be advised by Dr. Raef Bassily. My research includes privacy-preserving data analysis, with a specific focus on differential privacy and its applications to machine learning, optimization, and adaptive data analysis.
 
