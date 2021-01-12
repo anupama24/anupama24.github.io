@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-venue: "The Ohio State University"
+#venue: "The Ohio State University"
 
 ---
 
