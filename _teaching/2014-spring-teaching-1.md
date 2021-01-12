@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Ohio State University"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+# Teaching assistant:
+  * CSE 5523 Machine Learning and Statistical Pattern Recognition, Fall 2020 & Fall 2018
+  * CSE 2331 Foundations II: Data Structures and Algorithms, Fall 2018
+  * CSE 211 Modeling and Problem Solving with Spreadsheets and Databases Spring & Fall 2017
+  * CSE 6341 Foundations of Programming Languages Fall 2014
+  * CSE 2431 Systems II: Introduction to Operating Systems Fall 2013 & Spring 2014
