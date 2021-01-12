@@ -2,6 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 venue: "The Ohio State University"
+
 ---
 
 # Teaching assistant, The Ohio State University:
