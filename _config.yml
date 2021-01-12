@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Anupama Nandi"
 title_separator          : "-"
 name                     : &name "Anupama Nandi"
-description              : &description "PhD Candidate, Computer Science & Engg Department, The Ohio State University"
-url                      : https://anupama24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Candidate, Computer Science & Engineering Department, The Ohio State University"
+url                      : https://anupama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anupama24/anupama24.github.io"
+repository               : "anupama24/anupama.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anupama Nandi"
   avatar           : "profile_anu.jpg"
-  bio              : "PhD Candidate, Computer Science & Engg Department, The Ohio State University"
+  bio              : "PhD Candidate, Computer Science & Engineering Department, The Ohio State University"
   location         : "Columbus,Ohio"
   employer         :
   pubmed           : 
