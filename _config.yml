@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anupama Nandi"
 title_separator          : "-"
 name                     : &name "Anupama Nandi"
-description              : &description "PhD Candidate"
+description              : &description "personal description"
 url                      : https://anupama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anupama24/anupama.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anupama Nandi"
   avatar           : "profile_anu.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "United States"
+  bio              : "PhD Candidate, Computer Science & Engg Department, The Ohio State University"
+  location         : "Columbus,Ohio"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b6L2F7cAAAAJ&hl=en"
