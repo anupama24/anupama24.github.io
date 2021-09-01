@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Work Experience
+
 
 Organization | Description | Timeline
 -------|-------------|-----------
