@@ -13,7 +13,7 @@ In the <i>34th Annual Conference on Learning Theory (COLT 2021)</i>
 </li>
 
 <li> <a href="https://papers.nips.cc/paper/2020/hash/1ee942c6b182d0f041a2312947385b23-Abstract.html"> Learning from mixtures of private and public populations. </a> <br>
-  Raef Bassily, Shay Moran, and <b>Anupama Nandi</b>. </br>
+  Raef Bassily, Shay Moran, and <b>Anupama Nandi</b>. <br>
 In the <i>34th Conference on Neural Information Processing Systems (NeurIPS 2020).</i> 
 </li>
 
