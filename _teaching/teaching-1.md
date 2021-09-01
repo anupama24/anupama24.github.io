@@ -1,5 +1,6 @@
 ---
 collection: teaching
+permalink: /teaching/teaching-1
 ---
 # Teaching assistant, The Ohio State University:
   * CSE 5523: Machine Learning and Statistical Pattern Recognition (Fall 2020, Fall 2018)
