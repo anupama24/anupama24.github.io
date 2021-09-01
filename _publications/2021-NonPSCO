@@ -2,8 +2,8 @@
 title: " Non-euclidean  differentially  private  stochastic  convex optimization."
 collection: publications
 permalink: /publications/2021-NonPSCO
-date: 2021-08-15
-venue: 'Conference on Learning Theory, COLT'
 link: 'http://proceedings.mlr.press/v134/bassily21a/bassily21a.pdf'
-citation: 'Raef Bassily, Crist`obal Guzm`an, and Anupama Nandi. &quot;Non-Euclidean  Differentially Private  Stochastic  Convex Optimization. &quot; <i>Conference on Learning Theory, COLT</i> 2021'
 ---
+Raef Bassily, Crist`obal Guzm`an, and Anupama Nandi. 
+
+In the <i>34th Annual Conference on Learning Theory (COLT 2021)</i>
