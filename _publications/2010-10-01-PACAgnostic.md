@@ -1,7 +1,7 @@
 ---
 title: "Privately answering classification queries in the agnostic PAC model."
 collection: publications
-permalink: /publication/2010-10-01-PACAgnostic
+permalink: /publications/2010-10-01-PACAgnostic
 date: 2020-02-08
 venue: 'Algorithmic Learning Theory, ALT'
 link: 'http://proceedings.mlr.press/v117/nandi20a.html'
