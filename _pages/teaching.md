@@ -1,9 +1,13 @@
 ---
+layout: archive
+title: "Teaching assistant, The Ohio State University:"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching assistant, The Ohio State University:
+
+
+
   * CSE 5523: Machine Learning and Statistical Pattern Recognition (Fall 2020, Fall 2018)
   * CSE 2331: Foundations II: Data Structures and Algorithms (Fall 2018)
   * CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases (Spring 2017, Fall 2017)
